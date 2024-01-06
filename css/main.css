@@ -333,18 +333,18 @@ nav.shrink .navbar-toggle {
 }
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item:nth-child(1) .item
 {
-	background: url('../images/1.jpg');
+	background: url('../images/7-11.jpg');
 	background-size: cover;
 	background-position: bottom;
 }
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item:nth-child(2) .item
 {
-	background: url('../images/2.jpg');
+	background: url('../images/7-11.jpg');
 	background-size: cover;
 }
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item:nth-child(3) .item
 {
-	background: url('../images/3.jpg');
+	background: url('../images/7-11.jpg');
 	background-size: cover;
 }
 .owl-theme .owl-controls .owl-buttons div
@@ -381,7 +381,7 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .about-bg
 {
-	background: url('../images/About-C-bg.jpg');
+	background: url('../images/456.jpg');
 	background-repeat: no-repeat;
 	background-size: 85%;
   	background-position-x: 15%;
@@ -399,7 +399,7 @@ nav.shrink .navbar-toggle {
 ==================================================*/
 .great-place-to-enjoy .section-bg
 {
-	background-image: url('../images/GPtE-bg.jpg');
+	background-image: url('../images/789.jpg');
 }
 /*=================================================
 ||				9. Our Beer
